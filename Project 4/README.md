@@ -69,4 +69,3 @@ For both datasets, the following analyses were performed:
 - **Wine Quality**: **Volatile Acidity**, **Total Sulfur Dioxide**, and **Alcohol** had the strongest effect on wine quality.
 - **Tuning Hyperparameters**: Lowering the learning rate and controlling tree depth improved generalization.
 - **Partial Dependence Analysis**: Provided insights into how individual features impact predictions, improving model interpretability.
-```
